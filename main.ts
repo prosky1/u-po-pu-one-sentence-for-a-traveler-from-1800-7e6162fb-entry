@@ -14,7 +14,7 @@ import { dirname } from "node:path";
 const OUT_PATH = "/output/entry.txt";
 
 const SENTENCE =
-  "Imagine every letter ever written, arriving instantly, carried by lightning trapped in glass you hold in your hand.";
+  "Imagine one letter that never ends, written by every soul alive at once, and you may add a line of your own.";
 
 const MAX_CHARS = 200;
 const MIN_CHARS = 1;
